@@ -26,3 +26,5 @@ The application will display a message indicating whether the input is a palindr
 ![Screenshot of the website with invalid input](./screenshots/screenshot3.png)
 
 View the FreeCodeCamp challenge [here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-palindrome-checker-project/build-a-palindrome-checker).
+
+(to rebuild github actions, use "git commit --allow-empty -m "Trigger rebuild"" then "git push")
