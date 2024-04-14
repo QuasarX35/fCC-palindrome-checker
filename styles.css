@@ -23,6 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-between;
     background: var(--background);
     font-size: 62.5%;
     width: 100%;
@@ -107,4 +108,16 @@ button:active {
     font-size: 1.8rem;
     margin-top: 3.5em;
     text-align: center;
+}
+
+footer {
+    color: var(--text);
+    font-size: 0.8rem;
+    bottom: 1em;
+    text-align: center;
+}
+
+.github-link {
+    color: var(--accent);
+    text-decoration: none;
 }
