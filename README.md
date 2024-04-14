@@ -1,7 +1,11 @@
 # Palindrome Checker Website
-This is a simple web application built to check whether a given string or number is a palindrome. It was created as a certification project for the FreeCodeCamp Javascript course.
+This is a simple web application built to check whether a given string or number is a palindrome. It was created as a certification project for the FreeCodeCamp Javascript course. The site can be accessed [here](https://kyze-palindrome-checker.netlify.app);
 
 ![Screenshot of the website](./screenshots/screenshot-1.png)
+
+## Using the Application
+- Enter a string or number in the input field.
+- Click the "Check" button.
 
 ## Features
 - Checks for palindromes in both strings and numbers.
@@ -13,11 +17,10 @@ This is a simple web application built to check whether a given string or number
 - CSS: for styling the website layout and elements.
 - JavaScript: for handling user interaction and palindrome checking logic.
 
-## Running the Application
+## Building the Application
 - Clone this repository to your local machine.
 - Open the index.html file in your web browser.
-- Enter a string or number in the input field.
-- Click the "Check" button.
+- Start editing any of the files.
 
 The application will display a message indicating whether the input is a palindrome or not.
 
