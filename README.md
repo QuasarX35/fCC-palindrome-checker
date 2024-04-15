@@ -6,6 +6,7 @@ This is a simple web application built to check whether a given string or number
 ## Using the Application
 - Enter a string or number in the input field.
 - Click the "Check" button.
+- The application will display a message indicating whether the input is a palindrome or not.
 
 ## Features
 - Checks for palindromes in both strings and numbers.
@@ -22,7 +23,6 @@ This is a simple web application built to check whether a given string or number
 - Open the index.html file in your web browser.
 - Start editing any of the files.
 
-The application will display a message indicating whether the input is a palindrome or not.
 
 ## Screenshots
 ![Screenshot of the website with valid input](./screenshots/screenshot-2.png)
