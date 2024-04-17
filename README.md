@@ -1,5 +1,5 @@
 # Palindrome Checker Website
-This is a simple web application built to check whether a given string or number is a palindrome. It was created as a certification project for the FreeCodeCamp Javascript course. The site can be accessed [here](https://kyze-palindrome-checker.netlify.app);
+This is a simple web application built to check whether a given string or number is a palindrome. It was created as a certification project for the FreeCodeCamp Javascript course. The site can be accessed [here](https://kyze-palindrome-checker.netlify.app).
 
 ![Screenshot of the website](./screenshots/screenshot-1.png)
 
@@ -22,7 +22,6 @@ This is a simple web application built to check whether a given string or number
 - Clone this repository to your local machine.
 - Open the index.html file in your web browser.
 - Start editing any of the files.
-
 
 ## Screenshots
 ![Screenshot of the website with valid input](./screenshots/screenshot-2.png)
